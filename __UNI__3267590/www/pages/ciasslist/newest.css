@@ -1,0 +1,1 @@
+.newestNote{height:100vh}.newestNote .content{display:grid;grid-template-columns:repeat(2,1fr);gap:.15625rem;padding:.15625rem}.newestNote .content .item{height:9.375rem}.newestNote .content .item uni-image{width:100%;height:100%;display:block}
